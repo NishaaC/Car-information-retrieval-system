@@ -1,0 +1,28 @@
+Query: turbocharged
+  Document: Genesis GV80.txt, Similarity: 0.0688
+  Document: Subaru Outback Wilderness.txt, Similarity: 0.0665
+  Document: Volvo XC90 Recharge.txt, Similarity: 0.0652
+  Document: Jeep Grand Cherokee 4xe.txt, Similarity: 0.0599
+  Document: Lexus RX 500h.txt, Similarity: 0.0573
+
+Query: eco-friendly hatchbacks
+  Document: BMW iX.txt, Similarity: 0.0854
+  Document: Jeep Grand Cherokee 4xe.txt, Similarity: 0.0800
+  Document: Lexus RX 500h.txt, Similarity: 0.0766
+  Document: Tesla Model S Plaid.txt, Similarity: 0.0000
+  Document: Ford F-150 Lightning.txt, Similarity: 0.0000
+
+Query: hybrid vehicles
+  Document: Volvo XC90 Recharge.txt, Similarity: 0.1356
+  Document: Jeep Grand Cherokee 4xe.txt, Similarity: 0.0903
+  Document: Lexus RX 500h.txt, Similarity: 0.0864
+  Document: BMW iX.txt, Similarity: 0.0732
+  Document: Porsche Taycan Turbo S.txt, Similarity: 0.0673
+
+Query: sports cars under $60k
+  Document: Audi e-tron GT.txt, Similarity: 0.2389
+  Document: Porsche Taycan Turbo S.txt, Similarity: 0.1943
+  Document: Hyundai Ioniq 6.txt, Similarity: 0.0460
+  Document: Tesla Model S Plaid.txt, Similarity: 0.0366
+  Document: Ford F-150 Lightning.txt, Similarity: 0.0000
+
